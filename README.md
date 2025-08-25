@@ -1,2 +1,2 @@
-# student
+# student-portal-demo
 ishwarya
